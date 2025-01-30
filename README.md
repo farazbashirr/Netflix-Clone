@@ -1,2 +1,2 @@
 # Netflix-Clone
-Using HTML , CSS and JAVASCRIPT in Netflix.
+Using HTML and CSS in Netflix.
